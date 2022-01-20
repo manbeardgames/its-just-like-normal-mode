@@ -2,37 +2,39 @@
 id: p3s-experimental-fireplume
 title: Experimental Fireplume
 sidebar_position: 4
+slug: /pandaemonium-asphodelos/the-third-circle/experimental-fireplume
 ---
-# Pandæmonium Asphodelos: The Third Circle (Savage)
-## Experimental Fireplume 
-([Raid Plan Link](https://raidplan.io/plan/q9cEUVuj28if1R7b))
 
-Experimental Fireplume has two variations that can be used based on the type of fireplume(s) (a.k.a ball(s)) that visuall spawn and fly up from the boss. This will either be a single **Large Fireplume** or several **Small Fireplumes**.  **Regardless of which variation is being used, all party members should be stacked in the center of the arena before the cast is finished**.
+# Experimental Fireplume 
+This mechanic has two variations; **Large Fireplume** or **Small Fireplumes**.  Which one is being used is based on the animation from the boss.  If a single large ball of fire spawns on the boss and flys upward, it is the **Large Fireplume** variation.  If, instead, it is several small fire balls that spawn around the boss and then fly up, it is the **Small Fireplumes** variation.
 
-![stack in the middle](/img/pandaemonium-asphodelos/the-third-circle/experimental-fireplume-1.png)
-
-### Large Fireplume
-The Large Fireplume variation is denoted by a single large ball of fire flying up from the boss.  When this variation occurs, **one player is targeted for the fireplume to drop on**, however there is no indication or marker to identify the player.  Due to this, everyone should be standing in the center of the arena before the cast bar finishes to ensure that it is baited to the center in case we get this variation.
-
-When the fireplume lands, the AoE that is created is massive, filling almost the entire arena, except for the outside edges if baited properly.  All players should move to the edge of the arena to dodge it.
-
-:::note
-If the first Experimental Fireplume is a Large Fireplume variation, all party members should run to the wall directly North.  This makes it much eaiser to dodge the next mechanic that that boss uses (Left/Right Cinderwing).
+:::danger
+No matter which variation is behing used, all party members should be stacked in the middle of the arena before the cast is finished.  This is because of how the large fireplume variation works, explained below.
 :::
 
-![Large Explosion](/img/pandaemonium-asphodelos/the-third-circle/experimental-fireplume-2.png)
+## Large Fireplume
+When it is a large fireplume, the position of one random party member is used as the location that the fireplume will drop on.  When the fireplume drops, it will create a large circular explosion covering most of the arena.  If dropped in the middle of the arena, the outer edge of the arena will be safe.
 
-### Small Fireplumes
-The Small Fireplumes variation is denoted by several small fireballs rotating around the boss before flying up.  When this variation occurs, four sets of explosions will occur, rotating around the edge of the arena, with a final explosion in the center of the arena.  To properly handle this mechanic, players should wait until the second explosion occurs, then move out of the center and into the space where the first and second explosions overlapped.
+![Large Fireplume Step One](/img/pandaemonium-asphodelos/the-third-circle/experimental-fireplume-large-step-one.png)
+![Large Fireplume Step Two](/img/pandaemonium-asphodelos/the-third-circle/experimental-fireplume-large-step-two.png)
+![Large Fireplume Step Three](/img/pandaemonium-asphodelos/the-third-circle/experimental-fireplume-large-step-three.png)
 
-The following image give one example of the explosion pattern that can occur.
+:::tip
+When running to the edge of the arena for this one, try to always run either directly north or directly south.  This makes the follow up mechanic significantly eaiser to resolve for yourself.  If you're a melee, you'll definitely want to run north to keep uptime on the boss.
+:::
 
-![First Explosion](/img/pandaemonium-asphodelos/the-third-circle/experimental-fireplume-3.png)
-![Second Explosion](/img/pandaemonium-asphodelos/the-third-circle/experimental-fireplume-4.png)
-![Third Explosion](/img/pandaemonium-asphodelos/the-third-circle/experimental-fireplume-5.png)
-![Fourth Explosion](/img/pandaemonium-asphodelos/the-third-circle/experimental-fireplume-6.png)
-![Fifth Explosion](/img/pandaemonium-asphodelos/the-third-circle/experimental-fireplume-7.png)
+## Small Fireplumes
+When it is the small fireplumes variation, four sets of explosions will occur around the outer edge of the arena.  These explosions will occur two at a time, opposite each other, and rotate around the room clockwise for the next set.  After the four sets of explosions have finished, a final fifth explosion will occur in the center of the arena.  To resolve this, party members should wait in the middle of the arena until the second explosion set has occured.  Then run immediatly to the edge of the arena where the first and second explosion sets overlapped.
 
 :::note
 The explosion sets do not always start North and South first. Be ready for this.
 :::
+
+![Small Fireplume Step One](/img/pandaemonium-asphodelos/the-third-circle/experimental-fireplume-small-step-one.png)
+![Small Fireplume Step Two](/img/pandaemonium-asphodelos/the-third-circle/experimental-fireplume-small-step-two.png)
+![Small Fireplume Step Three](/img/pandaemonium-asphodelos/the-third-circle/experimental-fireplume-small-step-three.png)
+![Small Fireplume Step Four](/img/pandaemonium-asphodelos/the-third-circle/experimental-fireplume-small-step-four.png)
+![Small Fireplume Step Five](/img/pandaemonium-asphodelos/the-third-circle/experimental-fireplume-small-step-five.png)
+![Small Fireplume Step Six](/img/pandaemonium-asphodelos/the-third-circle/experimental-fireplume-small-step-six.png)
+![Small Fireplume Step Seven](/img/pandaemonium-asphodelos/the-third-circle/experimental-fireplume-small-step-seven.png)
+

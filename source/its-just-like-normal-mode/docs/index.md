@@ -1,6 +1,7 @@
 ---
 id: docs-start
 title: Static Resources
+slug: /
 ---
 
-# Static Resources
+(coming soon)

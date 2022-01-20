@@ -1,76 +1,116 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const lightCodeTheme = require("prism-react-renderer/themes/github");
+const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'It\'s Just Like Normal Mode?',
-  tagline: 'Do we need a tag line?',
-  url: 'https://manbeardgames.com/its-just-like-normal-mode/',
-  baseUrl: '/',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
-  organizationName: 'manbeardgames', // Usually your GitHub org/user name.
-  projectName: 'its-just-like-normal-mode', // Usually your repo name.
+  title: "It's Just Like Normal Mode?",
+  tagline: "Wait, how did I die?",
+  url: "https://manbeardgames.com/",
+  baseUrl: "/its-just-like-normal-mode/",
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "warn",
+  favicon: "img/spriggan.png",
+  organizationName: "manbeardgames", // The Github account/user/org
+  projectName: "its-just-like-normal-mode", //   The Github Repo
+  deploymentBranch: "gh-pages",
+  trailingSlash: true,
 
   presets: [
     [
-      'classic',
+      "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          routeBasePath: "/",
+          sidebarPath: require.resolve("./sidebars.js"),
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
-        theme: {
-          customCss: require.resolve('./src/css/custom.css'),
-        },
+        //  Disable blog, don't need it
+        blog: false,
+        theme: { customCss: require.resolve("./src/css/custom.css") },
       }),
     ],
   ],
 
-  themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
-      navbar: {
-        title: 'It\'s Just Like Normal Mode?',
-        logo: {
-          alt: 'My Site Logo',
-          src: 'img/spriggan.png',
+  plugins: [
+    'plugin-image-zoom'
+  ],
+
+  themeConfig: {
+    /* Common Configs */
+    defaultMode: "dark",
+    disableSwitch: true,
+    respectPrefersColorScheme: false,
+    // switchConfig: {},
+    image: "img/",
+    //  metaData: [{}],
+
+    /* Navbar Config */
+    navbar: {
+      title: "It's Just Like Normal Mode",
+      logo: {
+        alt: "Spriggan Logo",
+        src: "img/spriggan.png",
+        height: "40px",
+      },
+      hideOnScroll: false,
+      style: "dark",
+      items: [
+        {
+          type: "doc",
+          docId: "schedule",
+          label: "Schedule",
+          position: "left",
         },
-        items: [
-          {
-            type: 'doc',
-            docId: 'docs-start',
-            position: 'left',
-            label: 'Static Resources',
-          },
-          {
-            href: 'https://github.com/manbeardgames',
-            label: 'GitHub',
-            position: 'right',
-          },
-        ],
+        {
+          type: "doc",
+          docId: "roster",
+          label: "Roster",
+          position: "left",
+        },
+        {
+          type: "doc",
+          docId: 'raid-plans',
+          label: "Raid Plans",
+          position: "left",
+        },
+        {
+          type: "doc",
+          docId: "docs-start",
+          label: "Static Resources",
+          position: "left",
+        },
+        {
+          type: "doc",
+          docId: "logs",
+          label: "Logs",
+          position: "left",
+        },
+      ],
+    },
+
+    /* Prism Codeblock Config */
+    prism: {
+      theme: require("prism-react-renderer/themes/github"),
+      darkTheme: require("prism-react-renderer/themes/dracula"),
+    },
+
+    /* Footer Config */
+    footer: {
+      logo: {
+        alt: "It's Just Like Normal Mode",
+        src: "img/spriggan.png",
+        height: 150,
+        href: "/",
       },
-      footer: {
-        style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} It's Just Like Normal Mode. Built with Docusaurus.`,
-      },
-      prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
-      },
-    }),
+      copyright: ` Created With ❤️ By ManBeardGames.<br/>Built with Docusaurus.<br />Copyright © ${new Date().getFullYear()}`,
+    },
+
+    /* Zoom Plugin Config */
+    zoomSelector: '.markdown img',
+  },
 };
 
 module.exports = config;
