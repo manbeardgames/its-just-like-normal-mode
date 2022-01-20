@@ -49,7 +49,10 @@ const config = {
         // switchConfig: {},
     },
     image: "img/og-image.png",
-    //  metaData: [{}],
+    metaData: [{
+        name: "description",
+        content: "The official website of the It's Just Like Normal Mode FFXIV raid static."
+    }],
 
     /* Navbar Config */
     navbar: {
