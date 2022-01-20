@@ -39,12 +39,16 @@ const config = {
   ],
 
   themeConfig: {
-    /* Common Configs */
-    defaultMode: "dark",
-    disableSwitch: true,
-    respectPrefersColorScheme: false,
-    // switchConfig: {},
-    image: "img/",
+    /* Color Mode Configs */
+    colorMode: {
+        // Default to dark
+        defaultMode: 'dark',
+        //  Disable light all together by turning off the switch
+        disableSwitch: true,
+        respectPrefersColorScheme: false,
+        // switchConfig: {},
+    },
+    image: "img/og-image.png",
     //  metaData: [{}],
 
     /* Navbar Config */
@@ -74,12 +78,6 @@ const config = {
           type: "doc",
           docId: 'raid-plans',
           label: "Raid Plans",
-          position: "left",
-        },
-        {
-          type: "doc",
-          docId: "docs-start",
-          label: "Static Resources",
           position: "left",
         },
         {

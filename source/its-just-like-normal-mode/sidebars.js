@@ -34,12 +34,12 @@ const sidebars = {
     },
   ],
 
-  resourcesSidebar: [
-    {
-      type: "doc",
-      label: "Static Resources",
-      id: "docs-start",
-    },
+//   resourcesSidebar: [
+//     {
+//       type: "doc",
+//       label: "Static Resources",
+//       id: "docs-start",
+//     },
     // {
     //   type: "category",
     //   label: "Pandaemonium Asphodelos",
@@ -56,7 +56,7 @@ const sidebars = {
     //     },
     //   ],
     // },
-  ],
+//   ],
 };
 
 module.exports = sidebars;
