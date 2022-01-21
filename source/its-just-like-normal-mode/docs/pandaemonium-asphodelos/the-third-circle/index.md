@@ -18,4 +18,4 @@ sidebar_position: 1
 - [Adds Phase](./adds.md)
 
 ## Waymarks
-![Waymarks](/img/pandaemonium-asphodelos/the-third-circle/waymarks.png)
+![Waymarks](/img/pandaemonium-asphodelos/the-third-circle/waymarks.webp)

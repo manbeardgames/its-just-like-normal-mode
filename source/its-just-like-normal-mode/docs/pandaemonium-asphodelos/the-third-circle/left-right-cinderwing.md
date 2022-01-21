@@ -13,5 +13,5 @@ The cleave comes from the boss and the direction the boss is facing is important
 :::
 
 
-![Left Cinderwing](/img/pandaemonium-asphodelos/the-third-circle/left-cinderwing.png)
-![Right Cinderwing](/img/pandaemonium-asphodelos/the-third-circle/right-cinderwing.png) 
+![Left Cinderwing](/img/pandaemonium-asphodelos/the-third-circle/left-cinderwing.webp)
+![Right Cinderwing](/img/pandaemonium-asphodelos/the-third-circle/right-cinderwing.webp) 

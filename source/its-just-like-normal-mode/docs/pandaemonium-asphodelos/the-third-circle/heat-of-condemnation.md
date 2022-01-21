@@ -15,4 +15,4 @@ For our group, Ryu has asked all party members to stand on the south west flank 
 To ensure that tethers are eaisly picked up by the tanks, the other party members should not be moving around until both tanks have the tethers and have moved to the opposite side of the boss.
 :::
 
-![Heat of Condemnation](/img/pandaemonium-asphodelos/the-third-circle/heat-of-condemnation.png)
+![Heat of Condemnation](/img/pandaemonium-asphodelos/the-third-circle/heat-of-condemnation.webp)

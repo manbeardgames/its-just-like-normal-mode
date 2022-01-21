@@ -13,11 +13,11 @@ If the center head is the one breathing fire, this means the boss will do a 1/3 
 
 To handle this, we have preassigned positions for everyone to go on.  Tanks and Healers to the left wall and DPS to the right wall.  See the image below for where to stand.
 
-![Single (Center) Head](/img/pandaemonium-asphodelos/the-third-circle/trail-of-condemnation-single.png)
+![Single (Center) Head](/img/pandaemonium-asphodelos/the-third-circle/trail-of-condemnation-single.webp)
 
 ### Double (Left & Right) Heads
 If the two outer heads are brething fire, this means the boss will do cleaves on to the left and right, leaving only the center lane safe.  After the dive, the boss will also drop four AoEs on either the tanks and healers or all four dps. 
 
 To handle this, the party will need to line up with their partners, in the order shown in the image below.
 
-![Two Heads](/img/pandaemonium-asphodelos/the-third-circle/trail-of-condemnation-double.png)
+![Two Heads](/img/pandaemonium-asphodelos/the-third-circle/trail-of-condemnation-double.webp)

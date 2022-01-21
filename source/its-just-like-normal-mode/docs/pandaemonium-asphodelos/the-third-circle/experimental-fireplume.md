@@ -15,9 +15,9 @@ No matter which variation is behing used, all party members should be stacked in
 ## Large Fireplume
 When it is a large fireplume, the position of one random party member is used as the location that the fireplume will drop on.  When the fireplume drops, it will create a large circular explosion covering most of the arena.  If dropped in the middle of the arena, the outer edge of the arena will be safe.
 
-![Large Fireplume Step One](/img/pandaemonium-asphodelos/the-third-circle/experimental-fireplume-large-step-one.png)
-![Large Fireplume Step Two](/img/pandaemonium-asphodelos/the-third-circle/experimental-fireplume-large-step-two.png)
-![Large Fireplume Step Three](/img/pandaemonium-asphodelos/the-third-circle/experimental-fireplume-large-step-three.png)
+![Large Fireplume Step One](/img/pandaemonium-asphodelos/the-third-circle/experimental-fireplume-large-step-one.webp)
+![Large Fireplume Step Two](/img/pandaemonium-asphodelos/the-third-circle/experimental-fireplume-large-step-two.webp)
+![Large Fireplume Step Three](/img/pandaemonium-asphodelos/the-third-circle/experimental-fireplume-large-step-three.webp)
 
 :::tip
 When running to the edge of the arena for this one, try to always run either directly north or directly south.  This makes the follow up mechanic significantly eaiser to resolve for yourself.  If you're a melee, you'll definitely want to run north to keep uptime on the boss.
@@ -30,11 +30,11 @@ When it is the small fireplumes variation, four sets of explosions will occur ar
 The explosion sets do not always start North and South first. Be ready for this.
 :::
 
-![Small Fireplume Step One](/img/pandaemonium-asphodelos/the-third-circle/experimental-fireplume-small-step-one.png)
-![Small Fireplume Step Two](/img/pandaemonium-asphodelos/the-third-circle/experimental-fireplume-small-step-two.png)
-![Small Fireplume Step Three](/img/pandaemonium-asphodelos/the-third-circle/experimental-fireplume-small-step-three.png)
-![Small Fireplume Step Four](/img/pandaemonium-asphodelos/the-third-circle/experimental-fireplume-small-step-four.png)
-![Small Fireplume Step Five](/img/pandaemonium-asphodelos/the-third-circle/experimental-fireplume-small-step-five.png)
-![Small Fireplume Step Six](/img/pandaemonium-asphodelos/the-third-circle/experimental-fireplume-small-step-six.png)
-![Small Fireplume Step Seven](/img/pandaemonium-asphodelos/the-third-circle/experimental-fireplume-small-step-seven.png)
+![Small Fireplume Step One](/img/pandaemonium-asphodelos/the-third-circle/experimental-fireplume-small-step-one.webp)
+![Small Fireplume Step Two](/img/pandaemonium-asphodelos/the-third-circle/experimental-fireplume-small-step-two.webp)
+![Small Fireplume Step Three](/img/pandaemonium-asphodelos/the-third-circle/experimental-fireplume-small-step-three.webp)
+![Small Fireplume Step Four](/img/pandaemonium-asphodelos/the-third-circle/experimental-fireplume-small-step-four.webp)
+![Small Fireplume Step Five](/img/pandaemonium-asphodelos/the-third-circle/experimental-fireplume-small-step-five.webp)
+![Small Fireplume Step Six](/img/pandaemonium-asphodelos/the-third-circle/experimental-fireplume-small-step-six.webp)
+![Small Fireplume Step Seven](/img/pandaemonium-asphodelos/the-third-circle/experimental-fireplume-small-step-seven.webp)
 

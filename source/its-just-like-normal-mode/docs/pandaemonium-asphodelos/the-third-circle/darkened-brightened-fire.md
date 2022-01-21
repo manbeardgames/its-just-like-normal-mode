@@ -24,8 +24,8 @@ For our group, we are using our default partner system for the pairs here.  This
 ```
 :::
 
-![Darkened Fire Positions](/img/pandaemonium-asphodelos/the-third-circle/darkened-fire-step-one.png)
-![Darkened Fire Positions](/img/pandaemonium-asphodelos/the-third-circle/darkened-fire-step-two.png)
+![Darkened Fire Positions](/img/pandaemonium-asphodelos/the-third-circle/darkened-fire-step-one.webp)
+![Darkened Fire Positions](/img/pandaemonium-asphodelos/the-third-circle/darkened-fire-step-two.webp)
 
 
 ## Brightened Fire
@@ -38,7 +38,7 @@ To do this, players should stand on waymarks 1 - 4 based on their dot count abov
 - 3 and 7 count should stand on waymark [3]
 - 4 and 8 count should stand on waymark [4]
 
-![Brightened Fire Positions](/img/pandaemonium-asphodelos/the-third-circle/brightened-fire.png)
+![Brightened Fire Positions](/img/pandaemonium-asphodelos/the-third-circle/brightened-fire.webp)
 
 Even though players receive the fire vulnerability debuff when hit, we can stack players together like this because the debuff timer is short and will fall off before they are hit a second time.
 

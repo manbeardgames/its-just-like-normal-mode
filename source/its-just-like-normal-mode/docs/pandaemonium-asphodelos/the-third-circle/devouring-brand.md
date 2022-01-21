@@ -14,7 +14,7 @@ When **Devouring Brand** starts, four fire line AoEs will spawn at the cardinal 
 
 While **Devouring Brand** is being cast, all party members should move to the center of the arena to prepare for the next mechanic that follows.
 
-![Devouring Brand](/img/pandaemonium-asphodelos/the-third-circle/devouring-brand-step-one.png)
+![Devouring Brand](/img/pandaemonium-asphodelos/the-third-circle/devouring-brand-step-one.webp)
 
 ## Experimental Fireplume
 Immediatly following **Deviouring Brand** the boss will cast **Experimental Fireplume**.  Like before, this one can be on of the two variations; Large or Small Fireplumes.  However, for this one, we have to handle the mechanic while considering the fire lines that are converging toward the middle from **Devouring Brand**.  
@@ -30,9 +30,9 @@ No matter which corner we move to, the party should move to the waymark position
 The fire lines from **Devouring Brand** will converage around the same time that the fireplume fully resolves.  Keep this in mind since the width of the fire lines will double.
 :::
 
-![Experimental Fireplume](/img/pandaemonium-asphodelos/the-third-circle/devouring-brand-step-two.png)
+![Experimental Fireplume](/img/pandaemonium-asphodelos/the-third-circle/devouring-brand-step-two.webp)
 
-![Experimental Fireplume](/img/pandaemonium-asphodelos/the-third-circle/devouring-brand-step-three.png)
+![Experimental Fireplume](/img/pandaemonium-asphodelos/the-third-circle/devouring-brand-step-three.webp)
 
 ## Seering Breeze
 After we finish with the fireplumes, the boss will cast **Searing Breeze**.  This will target all eight party members with point blank ground AoEs in the location they are standing.  If all party members are stacked together against the wall at the waymark after dodging the fireplumes, then this should eaisly bait all eight of the AoEs to the same location. Once the AoE indicators spawn on the ground, everyone should move in toward the center of the arena to dodge out of them.
@@ -41,7 +41,7 @@ After we finish with the fireplumes, the boss will cast **Searing Breeze**.  Thi
 When moving out of the Searing Breeze AoEs, don't move into the fire lines from Devouring Brand, which will still be on the ground at this point.
 :::
 
-![Seering Breeze](/img/pandaemonium-asphodelos/the-third-circle/devouring-brand-step-four.png)
+![Seering Breeze](/img/pandaemonium-asphodelos/the-third-circle/devouring-brand-step-four.webp)
 
 ## Left/Right Cinderwing
 Next up, the boss will cast **Left/Right Cinderwing**.  Just like before, dodge to the left or right of the boss depending on which one it is using.  While moving to dodge left or right, all non-tank party members should also start making their way to the center of the arena. Tanks should stay up towards the wall to prepar for upcoming Heat of Condemnation.
@@ -50,9 +50,9 @@ Next up, the boss will cast **Left/Right Cinderwing**.  Just like before, dodge 
 The fire lines from devouring brand will no longer be on the ground at this point
 :::
 
-![Left/Right Cinderwing](/img/pandaemonium-asphodelos/the-third-circle/devouring-brand-step-five.png)
+![Left/Right Cinderwing](/img/pandaemonium-asphodelos/the-third-circle/devouring-brand-step-five.webp)
 
 ## Heat of Condimnation
 Two teathers will appear on a random non-tank party members.  Party should be stacked at the center of the arena at this point.  If you are not a tank, remember to stay stacked and don't move around until the tanks have grabbed both tethers and moved the safely to the opposite side of the boss (toward the wall). Once the tethers have resolved, tanks will need to make their way to the center of the arena with the party for the next mechanic.
 
-![Heart of Condimnation #3](/img/pandaemonium-asphodelos/the-third-circle/devouring-brand-step-six.png)
+![Heart of Condimnation #3](/img/pandaemonium-asphodelos/the-third-circle/devouring-brand-step-six.webp)

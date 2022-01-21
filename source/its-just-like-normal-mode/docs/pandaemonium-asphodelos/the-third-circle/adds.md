@@ -11,16 +11,16 @@ During the adds phase, the party will need to be split up into two light parties
 ## Sunbirds
 At the start of the add phase, the boss will begin with a heavy hitting raid wise.  Healers need to ensure party is topped off before this hits and heal up after.  Once the raid wide damage goes off, four Subird adds will spawn around the cardinals of the boss.
 
-![Sunbirds Spawn](/img/pandaemonium-asphodelos/the-third-circle/add-phase-sunbirds-step-one.png)
+![Sunbirds Spawn](/img/pandaemonium-asphodelos/the-third-circle/add-phase-sunbirds-step-one.webp)
 
 - The tank from **Group 1** will grab the North and East sunbirds and take them both to the North wall.
 - The tank from **Group 2** will grab the South and West sunbirds and take them both to the South wall.
 
-![Sunbirds Spawn](/img/pandaemonium-asphodelos/the-third-circle/add-phase-sunbirds-step-two.png)
+![Sunbirds Spawn](/img/pandaemonium-asphodelos/the-third-circle/add-phase-sunbirds-step-two.webp)
 
 Each light party will then need to kill one sunbird, and only one, at the wall where their tank takes it.  Once the sunbird for that group has been killed, the tank should rotate clockwise to the next cardinal wall.
 
-![Sunbirds Spawn](/img/pandaemonium-asphodelos/the-third-circle/add-phase-sunbirds-step-three.png)
+![Sunbirds Spawn](/img/pandaemonium-asphodelos/the-third-circle/add-phase-sunbirds-step-three.webp)
 
 If done correctly, this should leave only one dead Sunbird in the North, South, East, and West walls of the arena respectivly.  
 
@@ -31,7 +31,7 @@ For healers, througout this phase, the boss is "raining fire" down from above wi
 ## Sunbird Revival + Tethers
 After all sunbirds are dead, the party should meat up in the middle of the arena to receive healing top ups and an shields and mitigation that can be provided.  The boss will then use **Flames of Undeath** which is another heaving hitting raid wide that will also revive all the sunbirds that died.  When they are reviving, they will telegraph large AoE circles underneath the.  There is no damage that comes from these circles, however if any one sunbird's circle overlaps with another sunbird, then they will receive a buff.  This is why we killed them spaced apart before.
 
-![Sunbirds Spawn](/img/pandaemonium-asphodelos/the-third-circle/add-phase-sunbirds-revive.png)
+![Sunbirds Spawn](/img/pandaemonium-asphodelos/the-third-circle/add-phase-sunbirds-revive.webp)
 
 After the sunbirds are revived, each sunbird will then tether to a random party member, and that party member will then be tethered to one of the other party members.  After a short period, the sunbirds will the dash to the party member that they are tethered too and then dash a second time to the next party member in the tether chain.
 
@@ -42,7 +42,7 @@ The tethers are the typical purple proximity tethers we see in past fights.  Thi
 
 If everyone is positioned correctly, the tethers will look something like the following.
 
-![Sunbirds Tethers](/img/pandaemonium-asphodelos/the-third-circle/add-phase-sunbirds-tethers.png)
+![Sunbirds Tethers](/img/pandaemonium-asphodelos/the-third-circle/add-phase-sunbirds-tethers.webp)
 
 
 :::tip
