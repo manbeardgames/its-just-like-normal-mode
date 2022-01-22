@@ -12,7 +12,7 @@ The following raid plans are for the Pandæmonium Asphodelos (Savage) tier
 
 |Duty |Raid Plan |
 |-----|----------|
-| The First Circle | (coming soon) |
+| The First Circle | [Raid Plan](/pandaemonium-asphodelos/the-first-circle/index.md) |
 | The Second Circle | (coming soon) |
 | The Third Circle | [Raid Plan](/pandaemonium-asphodelos/the-third-circle/index.md) |
 | The Fourth Circle | (coming soon) |

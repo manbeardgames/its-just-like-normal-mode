@@ -17,3 +17,5 @@ These four party members will need to move into position onto the [1], [2], [3],
 Once the indicators go away, the four fledglings will drop down on the locations of those party members that were marked. Those party members need to move into the center of the arena with the rest of the party.  After a short period, all four of the fledglings will perform large conal AoEs in the direction they are facing as dictacted by the indicators the party members had.
 
 ![Step Three](/img/pandaemonium-asphodelos/the-third-circle/fledgling-flight-step-three.webp)
+
+<iframe src="https://ff14.toolboxgaming.space/?id=964448726941461&preview=1"></iframe>
