@@ -45,7 +45,7 @@ All mechanics are listed below in alphabetical order.  Some also have additional
 | Lethe | This is the enrage cast.  If boss is not killed bofore this, the entire party will wipe and start over. This occurs at 10mins into the fight. |
 | [Pitless Flail of Grace](./pitiless-flail.md#pitiless-flail-of-grace) | A line AoE tank buster that causes a knockback and applys a magic resistance debuff. It is then followed up by **True Holy**.  True Holy is a split damage AoE that needs to be shared by the party. |
 | [Pitless Flail of Purgation](./pitiless-flail.md#pitiless-flail-of-purgation) | A line AoE tank buster that causes a knockback and applies a magic resistance debuff. It is then followed up by **True Flare**.  True Flare is a proximity based raid wide AoE from the party member being targeted. |
-| Shackles of Time | <p>One player recieves the **Shackles of Time** debuff. </p><p>![shackles of time](/img/icons/debuffs/shackles-of-time.webp) **Shackles of Time**: When the debuff resolves, all floor tiles that are the same color as the tile the player is standing on will explode </p> |
+| [Shackles of Time](./shackles-of-time.md) | <p>One player recieves the **Shackles of Time** debuff. </p><p>![shackles of time](/img/icons/debuffs/shackles-of-time.webp) **Shackles of Time**: When the debuff resolves, all floor tiles that are the same color as the tile the player is standing on will explode </p> |
 | Shining Cells | Heavy hitting raid wide AoE.  Transitions the room into red/green layout |
 | Slam Shut | Heavy hitting raid wide AoE that transitions the room out of the Shining Cells phase. |
 | Warder's Wrath | Heavy hitting raid wide AoE |
