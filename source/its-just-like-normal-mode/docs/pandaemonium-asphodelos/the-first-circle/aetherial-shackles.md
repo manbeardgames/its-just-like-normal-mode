@@ -40,3 +40,14 @@ With everyone in position, once the debuff timers run out, the mechanic resolves
 :::caution
 When the debuffs resolve and the AoEs explode, each player recieves a ![Magic Vulnerability Up Debuff](/img/icons/debuffs/magic-vulnerability-up.webp) **Magic Vulnerability Up** debuff. This means that after taking the first hit, if they were to take another, the damage would be increased and will kill them.  Be sure that you position correctly so that you only take one explosion.
 :::
+
+
+# Example Video
+*in the example video, Gon and Edrael die. This is because they are standing too close to each other and their AoEs, even though they were the small purple ones, overlapped*
+<iframe src="https://player.twitch.tv/?video=1271658405&parent=localhost&parent=manbeardgames.com&autoplay=false" 
+    frameBorder="0" 
+    allowFullScreen={true} 
+    scrolling="no" 
+    height="378" 
+    width="620"></iframe>
+

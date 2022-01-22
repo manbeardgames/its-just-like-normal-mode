@@ -2,6 +2,7 @@
 id: the-first-circle-savage
 title: Overview
 sidebar_position: 1
+description: Overview of Pandæmonium Asphodelos The First Circle Savage
 ---
 # Pandæmonium Asphodelos: The First Circle (Savage)
 
