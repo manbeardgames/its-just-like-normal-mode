@@ -19,7 +19,7 @@ When the boss uses Intemperance, the entire stage will transform and be divided 
 
 ![Aetherial Gems](/img/pandaemonium-asphodelos/the-first-circle/intemperance-aetherial-gems.webp)
 
-As shown in the image above, each gem has a different effect that it has on a party member. The Fire and Ice gems, when exploding, must be soaked by at minimum one party member, and will apply either the ![Hot Spell](/img/icons/debuffs/hot-spell.webp)**Hot Spell** or ![Cold Spell](/img/icons/debuffs/cold-spell.webp)**cold Spell**  debuff depending on if you soak fire or ice respectivly.  **You must alternate the debuff.  For example, if the first one you receive is Hot Spell, then the next one you receive must be Cold Spell from an Ice Cube**.  Additionally, the Void gem must **not** be soaked by anyone.  And if that wasn't complex enough, there's also 3 different variations that the gems will spawn in.
+As shown in the image above, each gem has a different effect that it has on a party member. The Fire and Ice gems, when exploding, must be soaked by at minimum one party member, and will apply either the ![Hot Spell](/img/icons/debuffs/hot-spell.webp)**Hot Spell** or ![Cold Spell](/img/icons/debuffs/cold-spell.webp)**Cold Spell**  debuff depending on if you soak fire or ice respectivly.  **You must alternate the debuff.  For example, if the first one you receive is Hot Spell, then the next one you receive must be Cold Spell from an Ice Cube**.  Additionally, the Void gem must **not** be soaked by anyone.  And if that wasn't complex enough, there's also 3 different variations that the gems will spawn in.
 
 3 gems per 8 squares with 3 variations = 72 possible solves? *(bad math used for dramatic effect, it's actually not that complicatd)*.
 
@@ -107,7 +107,7 @@ The **Three Ice Variation** is the easiest one.  For this one, it **does not mat
 <!-- </details> -->
 
 ### 2-Man Adjust Variation
-This is called the **2-Man Adjust** because it requires only 2 party members to adjust and not end up on their home position for the final Aetherial Gem explosions.  How they adjust however depends on if the Aetherial Gems are exploding from top to bottom, or from bottom to top.  For both variations we will designate the **North East DPS and the South Tank** as the adjusters. Both variations of this are covered  below.
+This is called the **2-Man Adjust** because it requires only 2 party members to adjust and not end up on their home position for the final Aetherial Gem explosions.  How they adjust however depends on if the Aetherial Gems are exploding from top to bottom, or from bottom to top.  For both variations we will designate the **North East DPS and the North Tank** as the adjusters. Both variations of this are covered  below.
 
 ### 2-Man Adjust Top-To-Bottom
 
@@ -116,13 +116,13 @@ This is called the **2-Man Adjust** because it requires only 2 party members to 
 
 For the **top-to-bottom** variation, the following table outlines the movements needed to resolve all Aetherial Gems for every individual based on their roles.
 
-| Role                           | First Gem | Second Gem | Third Gem  |
-|--------------------------------|-----------|------------|------------|
-| **Current Tank**               | Home      | Center     | Home       |
-| **Off Tank (adjuster)**        | Home      | North      | North East |
-| **Healers**                    | Home      | South      | Home       |
-| **North West DPS (adjuster)**  | Home      | South      | South      |
-| **All Other DPS**              | Home      | Center     | Home       |
+|                     | First Gem | Second Gem | Third Gem  |
+|---------------------|-----------|------------|------------|
+| ⭐ **North Tank**      | Home      | Home       | North East |
+| ⭐ **North East DPS**  | Home      | South      | South      |
+| **South Tank**         | Home      | Center     | Home       |
+| **Healers**            | Home      | South      | Home       |
+| **All Other DPS**      | Home      | Center     | Home       |
 
 ![2-Man Adjust Top To Bottom Step One](/img/pandaemonium-asphodelos/the-first-circle/intemperance-adjust-top-bottom-step-one.webp)
 
@@ -141,10 +141,10 @@ For the **bottom-to-top** variation, the following table outlines the movements 
 
 | Role                           | First Gem | Second Gem | Third Gem  |
 |--------------------------------|-----------|------------|------------|
-| **Current Tank**               | Home      | Center     | Home       |
-| **Off Tank (adjuster)**        | Home      | Home       | North East |
+| ⭐ **North Tank**              | Home      | South      | North East |
+| ⭐ **North East DPS**          | Home      | North      | North      |
+| **South Tank**                 | Home      | Center     | Home       |
 | **Healers**                    | Home      | South      | Home       |
-| **North West DPS (adjuster)**  | Home      | North      | South      |
 | **All Other DPS**              | Home      | Center     | Home       |
 
 ![2-Man Adjust Bottom To Top Step One](/img/pandaemonium-asphodelos/the-first-circle/intemperance-adjust-bottom-to-top-step-one.webp)
@@ -172,5 +172,5 @@ Joonbob has a great video that covers resolving this mechanic if you prefer to w
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PRfW76lGu8U" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 :::caution
-His video has a type that is mentioned in the description.  During the Bottom-To-Top section of the video (at 1:04), the OT should read **Home > Home SE**.  The animation that plays is correct, just the text is incorrect
+His video has a typo that is mentioned in the description.  During the Bottom-To-Top section of the video (at 1:04), the OT should read **Home > Home SE**.  The animation that plays is correct, just the text is incorrect
 :::
