@@ -30,29 +30,36 @@ const config = {
         //  Disable blog, don't need it
         blog: false,
         theme: { customCss: require.resolve("./src/css/custom.css") },
+
+        //  Setup G4
+        gtag: {
+          trackingID: "G-7D2L3YGW3H",
+          anonymizeIP: false,
+        },
       }),
     ],
   ],
 
-  plugins: [
-    'plugin-image-zoom'
-  ],
+  plugins: ["plugin-image-zoom"],
 
   themeConfig: {
     /* Color Mode Configs */
     colorMode: {
-        // Default to dark
-        defaultMode: 'dark',
-        //  Disable light all together by turning off the switch
-        disableSwitch: true,
-        respectPrefersColorScheme: false,
-        // switchConfig: {},
+      // Default to dark
+      defaultMode: "dark",
+      //  Disable light all together by turning off the switch
+      disableSwitch: true,
+      respectPrefersColorScheme: false,
+      // switchConfig: {},
     },
     image: "img/og-image.png",
-    metaData: [{
+    metaData: [
+      {
         name: "description",
-        content: "The official website of the It's Just Like Normal Mode FFXIV raid static."
-    }],
+        content:
+          "The official website of the It's Just Like Normal Mode FFXIV raid static.",
+      },
+    ],
 
     /* Navbar Config */
     navbar: {
@@ -79,7 +86,7 @@ const config = {
         },
         {
           type: "doc",
-          docId: 'raid-plans',
+          docId: "raid-plans",
           label: "Raid Plans",
           position: "left",
         },
@@ -110,7 +117,7 @@ const config = {
     },
 
     /* Zoom Plugin Config */
-    zoomSelector: '.markdown img',
+    zoomSelector: ".markdown img",
   },
 };
 
