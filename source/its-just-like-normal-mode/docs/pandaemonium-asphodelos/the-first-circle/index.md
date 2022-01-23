@@ -40,14 +40,14 @@ All mechanics are listed below in alphabetical order.  Some also have additional
 | [Fourfold Shackles](./fourfold-shackles.md) | Four party members receve the **Shackles of Loneliness** debuff with timers of either 3, 8, 13 or 18 seconds.  The other four party members receive the **Shackles of Companionship** debuff with timers of either 3, 8, 13, or 18 seconds.  As each debuff pair resolves, the shackle mechanics will happen, totaling four times.  |
 | [Gaoler's Flail](./gaolers-flail.md) | <p>The boss will drop on of three types of flais on either side of him, then drop another type of fail on the opposite side. Handle each flail based on the flail type in the order that the boss dropped them.</p><p>**Sickle Flail**: The sickle flail will perform a 270-deg cleave</p><p>**Mace Flail**: The mace flail indicates that the boss will perform a point-blank AoE around himself.</p><p>**Ring Flail**: The ring flail indicates that the boss will perform a donut AoE round himself.</p> |
 | [Heavy Hand](./heavy-hand.md) | Hard hitting tank buster. Does not require a tank swap |
-| Intemperance | Transitions the room into a 3x3 grid and spawns the red/blue/purple cube stacks in each grid cell.|
-| Intemparate Torment | Starts the chain of the cubes exploding.  The location of the bosses hand indicates the order in which the cubes in each stack explodes; if his hand is held high, then they explode top down, and if his hand is held low to the ground, they will explode from bottom up. |
-| Lethe | This is the enrage cast.  If boss is not killed bofore this, the entire party will wipe and start over. This occurs at 10mins into the fight. |
+| [Intemperance](./intemperance-1.md) | Transitions the room into a 3x3 grid and spawns the red/blue/purple cube stacks in each grid cell.|
+| [Intemparate Torment](./intemperance-1.md#intemperate-torment) | Starts the chain of the cubes exploding.  The location of the bosses hand indicates the order in which the cubes in each stack explodes; if his hand is held high, then they explode top down, and if his hand is held low to the ground, they will explode from bottom up. |
+| [Lethe](./lethe.md) | This is the enrage cast.  If boss is not killed bofore this, the entire party will wipe and start over. This occurs at 10mins into the fight. |
 | [Pitless Flail of Grace](./pitiless-flail.md#pitiless-flail-of-grace) | A line AoE tank buster that causes a knockback and applys a magic resistance debuff. It is then followed up by **True Holy**.  True Holy is a split damage AoE that needs to be shared by the party. |
 | [Pitless Flail of Purgation](./pitiless-flail.md#pitiless-flail-of-purgation) | A line AoE tank buster that causes a knockback and applies a magic resistance debuff. It is then followed up by **True Flare**.  True Flare is a proximity based raid wide AoE from the party member being targeted. |
 | [Shackles of Time](./shackles-of-time.md) | <p>One player recieves the **Shackles of Time** debuff. </p><p>![shackles of time](/img/icons/debuffs/shackles-of-time.webp) **Shackles of Time**: When the debuff resolves, all floor tiles that are the same color as the tile the player is standing on will explode </p> |
-| Shining Cells | Heavy hitting raid wide AoE.  Transitions the room into red/green layout and starts the Shining Cells phase. |
-| Slam Shut | Heavy hitting raid wide AoE that transitions the room out of the Shining Cells phase. |
-| Warder's Wrath | Heavy hitting raid wide AoE |
+| [Shining Cells](./shining-cells.md) | Heavy hitting raid wide AoE.  Transitions the room into red/green layout and starts the Shining Cells phase. |
+| [Slam Shut](./slam-shut.md) | Heavy hitting raid wide AoE that transitions the room out of the Shining Cells phase. |
+| [Warder's Wrath](./warders-wrath.md) | Heavy hitting raid wide AoE |
 
 

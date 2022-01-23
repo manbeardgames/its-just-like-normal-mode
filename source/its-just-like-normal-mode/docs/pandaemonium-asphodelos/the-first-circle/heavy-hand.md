@@ -10,6 +10,7 @@ slug: /pandaemonium-asphodelos/the-first-circle/heavy-hand
 Heavy hand is a hard hitting tank buster.  No debuffs are given on hit, so this does not require a tank swap.  Tanks should use cooldowns to help mitigate damage.
 
 ## Example Video
+In this video it shows the boss using Heavy Hand.
 <iframe src="https://player.twitch.tv/?video=1271765007&parent=localhost&parent=manbeardgames.com&autoplay=false" 
     frameBorder="0" 
     allowFullScreen={true} 

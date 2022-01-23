@@ -42,8 +42,8 @@ When the debuffs resolve and the AoEs explode, each player recieves a ![Magic Vu
 :::
 
 
-# Example Video
-*in the example video, Gon and Edrael die. This is because they are standing too close to each other and their AoEs, even though they were the small purple ones, overlapped*
+## Example Video
+*In the example video, Gon and Edrael die. This is because they are standing too close to each other and their AoEs, even though they were the small purple ones, overlapped*
 <iframe src="https://player.twitch.tv/?video=1271658405&parent=localhost&parent=manbeardgames.com&autoplay=false" 
     frameBorder="0" 
     allowFullScreen={true} 

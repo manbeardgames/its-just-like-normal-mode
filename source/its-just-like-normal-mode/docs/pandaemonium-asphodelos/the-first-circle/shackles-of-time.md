@@ -22,7 +22,7 @@ I choose to have the party member with the debuff go to a red tile because gener
 ![Shackles of Time Step Three](/img/pandaemonium-asphodelos/the-first-circle/shackles-of-time-step-three.webp)
 
 ## Example Video
-The following clip shows our static handling this mechanic.
+The following clip shows our static handling this mechanic by putting the player with the debuff on a red tile.
 <iframe src="https://player.twitch.tv/?video=1271932711&parent=localhost&parent=manbeardgames.com&autoplay=false" 
     frameBorder="0" 
     allowFullScreen={true} 
