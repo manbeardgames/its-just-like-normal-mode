@@ -1,10 +1,10 @@
 <!--
- _____ _   _         ___           _     _     _____ _         
-|_   _| | ( )       |_  |         | |   | |   |_   _| |        
-  | | | |_|/ ___      | |_   _ ___| |_  | |     | | | | _____  
-  | | | __| / __|     | | | | / __| __| | |     | | | |/ / _ \ 
- _| |_| |_  \__ \ /\__/ / |_| \__ \ |_  | |_____| |_|   <  __/ 
- \___/ \__| |___/ \____/ \__,_|___/\__| \_____/\___/|_|\_\___| 
+ _____ _   _         ___           _     _     _ _             
+|_   _| | ( )       |_  |         | |   | |   (_) |            
+  | | | |_|/ ___      | |_   _ ___| |_  | |    _| | _____      
+  | | | __| / __|     | | | | / __| __| | |   | | |/ / _ \     
+ _| |_| |_  \__ \ /\__/ / |_| \__ \ |_  | |___| |   <  __/     
+ \___/ \__| |___/ \____/ \__,_|___/\__| \_____/_|_|\_\___|     
                                                                
                                                                
  _   _                            _  ___  ___          _       
@@ -13,8 +13,7 @@
 | . ` |/ _ \| '__| '_ ` _ \ / _` | | | |\/| |/ _ \ / _` |/ _ \ 
 | |\  | (_) | |  | | | | | | (_| | | | |  | | (_) | (_| |  __/ 
 \_| \_/\___/|_|  |_| |_| |_|\__,_|_| \_|  |_/\___/ \__,_|\___| 
-                                                               
-                                                                                                                                                                                                                                                                                                            
+
 A FFXIV Static Website
 Copyright 2022 Christopher Whitley
 https://twitter.com/manbeardgames
@@ -23,22 +22,46 @@ https://twitter.com/manbeardgames
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="The official website of the 'It's Just Like Normal Mode' FFXIV raid static." />
-    <meta name="author" content="Christopher Whitley (https://twitter.com/manbeardgames" />
+    <meta name="description" content="<%- meta.description %>" />
+    <meta name="author" content="<%- meta.author %>" />
 
     <!-- Open Graph -->
-    <% meta = locals.meta || {} %>
-    <meta property="og:local" content="en-US" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="<%- meta.title || 'It\'s Just Like Normal Mode' %>" />
-    <meta property="og:description" content="<%- meta.description || 'Official website of the It\'s Just Like Normal Mode raid static' %>" />
-    <meta property="og:url" content="<%- meta.url || 'https://its-just-like-normal-mode.com' %>" />
-    <meta property="og:site_name" content="It's Just Like Normal Mode" />
-    <meta property="og:image" content="<%- meta.image || '/images/og-spriggan.png' %>" />
-    <title><%- meta.title || 'No Title Defined' %></title>
+    <meta property="og:local" content="<%- meta.local %>" />
+    <meta property="og:type" content="<%- meta.type %>" />
+    <meta property="og:title" content="<%- meta.title %>" />
+    <meta property="og:description" content="<%- meta.description %>" />
+    <meta property="og:url" content="<%- meta.url %>" />
+    <meta property="og:site_name" content="<%- meta.siteName %>" />
+    <meta property="og:image" content="<%- meta.image %>" />
+    <title><%- meta.title %></title>
+    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      rel="stylesheet"
+      href="https;//fonts.googleapis.com/css2?family=Nunito:wght@200;400&display=swap"
+    />
     <link rel="stylesheet" href="/css/site.css" />
   </head>
   <body>
+      <nav class="top-nav">
+          <div class="nav-brand">
+              <img src="/images/spriggan.png" alt="Spriggan Logo" />
+              <b class="brand-title">It's Just Like Normal Mode</b>
+          </div>
+        <ul>
+          <li>
+            <a href="#">Nav 1</a>
+          </li>
+          <li>
+            <a href="#">Nav 2</a>
+          </li>
+          <li>
+            <a href="#">Nav 3</a>
+          </li>
+        </ul>
+      </nav>
+      </div>
     <%- body %>
   </body>
 </html>
