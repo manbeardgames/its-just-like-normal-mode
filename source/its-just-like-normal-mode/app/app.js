@@ -8,7 +8,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 //  Set the view engine as EJS
-app.set("view engine", "ejs");
+app.set("view engine", "hbs");
 
 //  Set the default 'views' directory as the one inside the 'app' directory.
 app.set("views", path.join(__dirname, "views"));
@@ -25,7 +25,6 @@ app.use(express.urlencoded({ extended: false }));
 
 //  Setup the application routes.
 app.use("/", require("./routes/index"));
-app.use("/api/members", require("./routes/api/members"));
 
 
 app.use(errorHandling.fourOhFour);
