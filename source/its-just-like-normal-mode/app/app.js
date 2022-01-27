@@ -1,14 +1,18 @@
 const express = require("express");
 const errorHandling = require('./middleware/errorhandling');
 const path = require("path");
+const expressLayouts = require('express-ejs-layouts');
 
 const app = express();
 
 //  Get the port from the environment variable otherwise manually set it at 3000
 const PORT = process.env.PORT || 3000;
 
-//  Set the view engine as EJS
-app.set("view engine", "hbs");
+//  Configure EJS view engine
+app.set("view engine", "ejs");
+app.use(expressLayouts)
+app.set("layout", "layouts/default");
+
 
 //  Set the default 'views' directory as the one inside the 'app' directory.
 app.set("views", path.join(__dirname, "views"));
