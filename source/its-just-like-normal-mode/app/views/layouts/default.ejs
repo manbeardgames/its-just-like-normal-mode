@@ -27,12 +27,15 @@ https://twitter.com/manbeardgames
     <meta name="author" content="Christopher Whitley (https://twitter.com/manbeardgames" />
 
     <!-- Open Graph -->
+    <% meta = locals.meta || {} %>
     <meta property="og:local" content="en-US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="" />
-    <meta property="og:description" content="" />
-    <meta property="og:url" content="" />
-    <title><%- title %></title>
+    <meta property="og:title" content="<%- meta.title || 'It\'s Just Like Normal Mode' %>" />
+    <meta property="og:description" content="<%- meta.description || 'Official website of the It\'s Just Like Normal Mode raid static' %>" />
+    <meta property="og:url" content="<%- meta.url || 'https://its-just-like-normal-mode.com' %>" />
+    <meta property="og:site_name" content="It's Just Like Normal Mode" />
+    <meta property="og:image" content="<%- meta.image || '/images/og-spriggan.png' %>" />
+    <title><%- meta.title || 'No Title Defined' %></title>
     <link rel="stylesheet" href="/css/site.css" />
   </head>
   <body>
