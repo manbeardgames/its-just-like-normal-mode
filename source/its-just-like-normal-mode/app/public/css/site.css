@@ -12,7 +12,7 @@ html {
 }
 
 body {
-  padding-top: 3rem;
+  padding-top: 64px;
   min-height: 100vh;
   background-color: #e7ebf0;
   color: #293039;
@@ -23,7 +23,12 @@ body {
   top: 0;
   left: 0;
   right: 0;
-  height: 3rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 64px;
+  padding-left: 15px;
+  padding-right: 15px;
   background-color: #293039;
   color: #e7ebf0;
   border-bottom: 1px solid #e7ebf0;
@@ -43,5 +48,71 @@ body {
   margin-right: 1rem;
 }
 .top-nav .nav-brand .brand-title {
+  font-size: 2rem;
   align-self: center;
+}
+.top-nav #menu-icon {
+  padding: 5px 7px 3px 7px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: 250ms ease-out;
+}
+.top-nav #menu-icon svg {
+  height: 1rem;
+  color: #e7ebf0;
+}
+.top-nav #menu-icon:hover {
+  background-color: #a7e8db;
+}
+.top-nav #menu-icon:hover svg {
+  color: #478deb;
+}
+.top-nav #menu-button, .top-nav #menu-icon {
+  display: none;
+}
+.top-nav ul {
+  list-style: none;
+}
+.top-nav ul li {
+  display: inline-block;
+}
+.top-nav ul li a {
+  text-decoration: none;
+  color: #e7ebf0;
+  padding: 8px 30px;
+  border-radius: 7px;
+  transition: 250ms ease-out;
+}
+.top-nav ul li a:hover, .top-nav ul li a:active {
+  color: #478deb;
+  background-color: #e7ebf0;
+}
+
+@media screen and (max-width: 992px) {
+  .top-nav ul {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    width: 100%;
+    height: calc(100vh - 64px);
+    margin-top: 64px;
+    background-color: #293039;
+    display: none;
+  }
+  .top-nav ul li {
+    display: block;
+    padding: 10px 15px;
+  }
+  .top-nav ul li a {
+    display: block;
+    padding: 10px 0;
+  }
+  .top-nav #menu-icon {
+    display: block;
+  }
+  .top-nav #menu-button:checked ~ ul {
+    display: block;
+  }
 }

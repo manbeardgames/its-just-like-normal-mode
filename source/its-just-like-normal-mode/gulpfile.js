@@ -1,36 +1,30 @@
-const { src, dest, series, paralell, watch } = require("gulp");
+// const { src, dest, series, parallel, watch } = require("gulp");
+const gulp = require('gulp');
 const sass = require("gulp-sass")(require("sass"));
 const rename = require("gulp-rename");
 
-//  Only used to compile scss to css since node-sass is depreceated and i
-//  can't get it to work on windows without it throwing a tantrum about some
-//  python2 bullshit.
-const files = "./scss/**/*.scss";
-const output = "./app/public/css";
-const ext = ".css";
+//  Copies the font-awesome css files over
+const fontAwesome = () => {
+  return gulp.src("./node_modules/@fortawesome/fontawesome-free/css/all.css")
+    .pipe(rename("font-awesome.css"))
+  .pipe(gulp.dest("./app/public/css/"));
+}
 
-const compileCSS = () => {
-  return src("./scss/**/*")
+//  Copies the font-awesome font files over
+const fontAwesomeFonts = () => {
+  return gulp.src("./node_modules/@fortawesome/fontawesome-free/webfonts/**/*")
+    .pipe(gulp.dest("./app/public/webfonts"));
+}
+
+//  Compiles the project scss
+const compileScss = () => {
+  return gulp.src("./scss/**/*.scss")
     .pipe(sass({ outputStyle: "expanded" }))
-    .pipe(
-      rename((path) => {
-        path.extname = ".css";
-      })
-    )
-    .pipe(dest("./app/public/css"));
-};
+    .pipe(rename((path) => { path.extname = ".css"; }))
+    .pipe(gulp.dest("./app/public/css"));
+}
 
-exports.default = watch("./scss/**/*.scss", compileCSS);
 
-exports.default = () => {
-  watch(files, (cb) => {
-    return src(files)
-      .pipe(sass({ outputStyle: "expanded" }))
-      .pipe(
-        rename((path) => {
-          path.extname = ext;
-        })
-      )
-      .pipe(dest(output));
-  });
-};
+exports.build = gulp.parallel(fontAwesome, fontAwesomeFonts, compileScss);
+exports.dev = gulp.series(fontAwesome, fontAwesomeFonts, compileScss, () => { gulp.watch("./scss/**/*.scss", compileScss) });
+
