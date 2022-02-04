@@ -8,11 +8,12 @@ sidebar_position: 1
 ## Description
 >The perpetrator of the chaos in Asphodelos is revealed to be none other than its keyward Hesperos. Once known for his kindness to both warders and captives alike, he now appears before you as an amalgamation of mythic beast and man─a hemitheos. Drunk with devotion to Lahabrea and dripping venom for Erichthonios, Asphodelos's keeper may too be its most fearsome creation... 
 
-## Phases
-
 ## Mechanics
 ### Phase 1
-### PHase 2
+- [Blood Rake (Role Call + Tethers)](./blood-rake.md)
+
+### Phase 2
+(coming soon)
 
 
 ## Waymarks
