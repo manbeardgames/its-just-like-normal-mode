@@ -22,5 +22,8 @@ Blood Rake will target four party members, and it will always either be all four
 Fun fact, **Chlamys** is a word used to describe a short cloak. These were worn by mean in ancient Greece until around the 12th century AD
 :::
 
-So based on the information above, this means the party members that are targetted for the first Blood Rake **cannot** take the tethers and the party members targeted for the second Blood Rake **cannot** have the Role Call debuff.
+So based on the information above, this means the party members that are targetted for the first Blood Rake **cannot** take the tethers and the party members targeted for the second Blood Rake **cannot** have the Role Call debuff. 
+
+## Role Call
+Role
 
