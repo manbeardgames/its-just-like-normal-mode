@@ -11,6 +11,7 @@ sidebar_position: 1
 ## Mechanics
 ### Phase 1
 - [Blood Rake (Role Call + Tethers)](./blood-rake.md)
+- [Pinax (Tilews)](./pinax.md)
 
 ### Phase 2
 (coming soon)
