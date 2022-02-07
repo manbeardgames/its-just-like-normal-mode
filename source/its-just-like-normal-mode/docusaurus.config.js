@@ -8,8 +8,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "It's Just Like Normal Mode?",
   tagline: "Wait, how did I die?",
-  url: "https://manbeardgames.com/",
-  baseUrl: "/its-just-like-normal-mode/",
+  url: "https://justlikenormalmode.com/",
+  baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/spriggan.png",
