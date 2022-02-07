@@ -1,6 +1,6 @@
 ---
 id: p4s-belone-burst
-title: Belone Burst
+title: Belone Burst (Mario Kart)
 sidebar_position: 4
 slug: /pandaemonium-asphodelos/the-fourth-circle/belone-burst
 ---
@@ -21,7 +21,32 @@ It's important to note that tanks and healers will **ALWAYS** receive the **Acti
 
 In this guide, I'll present two ways of setting up for this mechanic and handling the popping of the orbs. I do not feel that either solution has an advantage over the other in terms of uptime or saftey.
 
-## Mario Kart Orbs
+## Toolbox
+This toolbox covers performing the Belone Burst mechanic using the **Mario Kart** strat discussed in the sections below.  
+[Belone Burst Mario Kart Strat Toolbox](https://ff14.toolboxgaming.space/?id=226151727524461&preview=1)
+
+## Discussion Video
+This video talks through the **Mario Kart** strat using the toolbox that is linked above.
+
+<div style={{
+    position: "relative",
+    paddingBottom: "56.25%",
+    height: "0",
+    overflow: "hidden",
+    maxWidth: "100%"
+    }}>
+    <iframe style={{
+        position: "absolute",
+        top: "0",
+        left: "0",
+        width: "100%",
+        height: "100%"
+    }} src='https://www.youtube.com/embed/r417lIaZ4qU' frameborder='0' allowfullscreen></iframe>
+</div>
+<br/> 
+<br/> 
+
+## Mario Kart Orbs (Text Guide)
 In this solution, once the **Acting-[Role]** debuffs have gone out, party members will position themselves around the boss in the following manner:
 
 - Tanks will stand North and North East of the boss
@@ -38,3 +63,4 @@ Doing the positions this way puts every **Acting-[Role]** debuff with a partner 
 ![Belone Burst Mario Kart Step 1](/img/pandaemonium-asphodelos/the-fourth-circle/belone-burst/belone-burst-mario-kart-step-one.webp)
 ![Belone Burst Mario Kart Step 2](/img/pandaemonium-asphodelos/the-fourth-circle/belone-burst/belone-burst-mario-kart-step-two.webp)
 ![Belone Burst Mario Kart Step 3](/img/pandaemonium-asphodelos/the-fourth-circle/belone-burst/belone-burst-mario-kart-step-three.webp)
+
