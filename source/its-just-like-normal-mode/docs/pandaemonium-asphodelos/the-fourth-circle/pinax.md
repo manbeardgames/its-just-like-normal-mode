@@ -38,7 +38,7 @@ Aether party finder has adopted an uptime strat that is relitvely safe and easy 
         left: "0",
         width: "100%",
         height: "100%"
-    }} src='https://www.youtube.com/embed/kV3casBjBZA' frameborder='0' allowfullscreen></iframe>
+    }} src='https://www.youtube.com/embed/QVn41CQS8dQ' frameborder='0' allowfullscreen></iframe>
 </div>
 <br/> 
 <br/> 
