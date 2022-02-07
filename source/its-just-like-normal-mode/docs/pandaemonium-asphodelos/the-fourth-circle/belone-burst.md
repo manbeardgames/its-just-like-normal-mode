@@ -23,7 +23,7 @@ In this guide, I'll present two ways of setting up for this mechanic and handlin
 
 ## Toolbox
 This toolbox covers performing the Belone Burst mechanic using the **Mario Kart** strat discussed in the sections below.  
-[Belone Burst Mario Kart Strat Toolbox](https://ff14.toolboxgaming.space/?id=226151727524461&preview=1)
+[Belone Burst Mario Kart Strat Toolbox](https://ff14.toolboxgaming.space/?id=926159282624461&preview=1)
 
 ## Discussion Video
 This video talks through the **Mario Kart** strat using the toolbox that is linked above.
