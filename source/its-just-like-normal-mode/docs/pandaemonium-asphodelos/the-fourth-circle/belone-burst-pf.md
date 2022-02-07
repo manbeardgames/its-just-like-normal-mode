@@ -57,10 +57,10 @@ In this solution, once the **Acting-[Role]** debuffs have gone out, party member
 
 The following image shows the placement of all party members.
 
-![Vengeful Belone Positions Party FInder](/img/pandaemonium-asphodelos/the-fourth-circle/belone-burst/vengeful-belone-positions-party-finder.webp)
+![Vengeful Belone Positions Party FInder](/img/pandaemonium-asphodelos/the-fourth-circle/belone-burst/vengful-belone-positions-party-finder-static.webp)
 
 Doing the positions this way puts every **Acting-[Role]** debuff with a partner and lines them up so they are directly across the boss from the orbs they need to pop.  They will run with their partner to the opposite side of the boss and pop the orb in the cardinal direction first, then rotate clockwise to pop the orb at the intercardinal.
 
-![Belone Burst Party Finder Step 1](/img/pandaemonium-asphodelos/the-fourth-circle/belone-burst/belone-burst-party-finder-step-one.webp)
-![Belone Burst Party Finder Step 2](/img/pandaemonium-asphodelos/the-fourth-circle/belone-burst/belone-burst-party-finder-step-two.webp)
-![Belone Burst Party Finder Step 3](/img/pandaemonium-asphodelos/the-fourth-circle/belone-burst/belone-burst-party-finder-step-three.webp)
+![Belone Burst Party Finder Step 1](/img/pandaemonium-asphodelos/the-fourth-circle/belone-burst/belone-burst-party-finder-static-step-one.webp)
+![Belone Burst Party Finder Step 2](/img/pandaemonium-asphodelos/the-fourth-circle/belone-burst/belone-burst-party-finder-static-step-two.webp)
+![Belone Burst Party Finder Step 3](/img/pandaemonium-asphodelos/the-fourth-circle/belone-burst/belone-burst-party-finder-static-step-three.webp)

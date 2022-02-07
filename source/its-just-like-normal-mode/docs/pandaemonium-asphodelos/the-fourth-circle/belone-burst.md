@@ -56,11 +56,13 @@ In this solution, once the **Acting-[Role]** debuffs have gone out, party member
 
 The following image shows the placement of all party members.
 
-![Vengeful Belone Positions Mario Kart](/img/pandaemonium-asphodelos/the-fourth-circle/belone-burst/vengeful-belone-positions-mario-kart.webp)
+![Vengeful Belone Positions Mario Kart](/img/pandaemonium-asphodelos/the-fourth-circle/belone-burst/vengeful-belone-positions-mario-kart-static.webp)
 
 Doing the positions this way puts every **Acting-[Role]** debuff with a partner and lines them up so that the orbs they need to pop and soak together will the the two orbs that spawn clockwise from their positions.  In this mannar, all party members will need to just simply rotate around the room clockwise with their partner and pop the orbs they need to.
 
-![Belone Burst Mario Kart Step 1](/img/pandaemonium-asphodelos/the-fourth-circle/belone-burst/belone-burst-mario-kart-step-one.webp)
-![Belone Burst Mario Kart Step 2](/img/pandaemonium-asphodelos/the-fourth-circle/belone-burst/belone-burst-mario-kart-step-two.webp)
-![Belone Burst Mario Kart Step 3](/img/pandaemonium-asphodelos/the-fourth-circle/belone-burst/belone-burst-mario-kart-step-three.webp)
+![Belone Burst Mario Kart Step 1](/img/pandaemonium-asphodelos/the-fourth-circle/belone-burst/belone-burst-mario-kart-static-step-one.webp)
+![Belone Burst Mario Kart Step 2](/img/pandaemonium-asphodelos/the-fourth-circle/belone-burst/belone-burst-mario-kart-static-step-two.webp)
+![Belone Burst Mario Kart Step 3](/img/pandaemonium-asphodelos/the-fourth-circle/belone-burst/belone-burst-mario-kart-static-step-three.webp)
+
+
 
