@@ -33,7 +33,7 @@ const config = {
 
         //  Setup G4
         gtag: {
-          trackingID: "G-7D2L3YGW3H",
+          trackingID: "G-T3NVNQ2ME1",
           anonymizeIP: false,
         },
       }),
