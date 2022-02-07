@@ -12,7 +12,8 @@ sidebar_position: 1
 ### Phase 1
 - [Blood Rake (Role Call + Tethers)](./blood-rake.md)
 - [Pinax (Tiles)](./pinax.md)
-- [Belone Burst](./belone-burst.md)
+- [Belone Burst (Mario Kart Strat)](./belone-burst.md)
+- [Belone Burst (Party Finder Strat)](./belone-burst-pf.md)
 
 ### Phase 2
 (coming soon)
