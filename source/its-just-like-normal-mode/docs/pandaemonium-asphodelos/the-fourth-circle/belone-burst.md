@@ -41,7 +41,7 @@ This video talks through the **Mario Kart** strat using the toolbox that is link
         left: "0",
         width: "100%",
         height: "100%"
-    }} src='https://www.youtube.com/embed/r417lIaZ4qU' frameborder='0' allowfullscreen></iframe>
+    }} src='https://www.youtube.com/embed/ffYHn9TGt1Q' frameborder='0' allowfullscreen></iframe>
 </div>
 <br/> 
 <br/> 
