@@ -30,7 +30,7 @@ This video talks through the **Uptime** strat using the toolbox that is linked a
         left: "0",
         width: "100%",
         height: "100%"
-    }} src='https://www.youtube.com/embed/ffYHn9TGt1Q' frameborder='0' allowfullscreen></iframe>
+    }} src='https://www.youtube.com/embed/-gkjwWcNiJ8' frameborder='0' allowfullscreen></iframe>
 </div>
 <br/> 
 <br/> 
