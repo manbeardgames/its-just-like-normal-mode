@@ -49,16 +49,23 @@ This video talks through the **Mario Kart** strat using the toolbox that is link
 ## Mario Kart Orbs (Text Guide)
 In this solution, once the **Acting-[Role]** debuffs have gone out, party members will position themselves around the boss in the following manner:
 
-- Tanks will stand North and North East of the boss
-- Healers will stand South and South West of the boss
-- The two DPS with the **Acting-Healer** debuff will stand East and South East of the boss
-- The two DPS with the **Acting-Tank** debuff will stand West and North West of the boss.
+- Ryu will take the North spot
+- Gigren will take the North East spot
+- Edrael will take the East spot
+- Ethernity will take the South East spot
+- Kanae will take the South spot
+- Gon will take the South West spot
+- Sock will take the West spot
+- Muggy will take the North West spot
+
+We can use static positions as such and sorta ignore the **Acting-[Role]** debuffs
 
 The following image shows the placement of all party members.
 
 ![Vengeful Belone Positions Mario Kart](/img/pandaemonium-asphodelos/the-fourth-circle/belone-burst/vengeful-belone-positions-mario-kart-static.webp)
 
-Doing the positions this way puts every **Acting-[Role]** debuff with a partner and lines them up so that the orbs they need to pop and soak together will the the two orbs that spawn clockwise from their positions.  In this mannar, all party members will need to just simply rotate around the room clockwise with their partner and pop the orbs they need to.
+
+Doing the positions this way will group the tanks, ranged dps, healers, and melee dps together at specific points around the boss. Then when the orbs spawn, each partner group just has to rotate clockwise to the next cardinal, pop the orb together there, then rotate clockwise to the next intercardinal and pop the orb there.
 
 ![Belone Burst Mario Kart Step 1](/img/pandaemonium-asphodelos/the-fourth-circle/belone-burst/belone-burst-mario-kart-static-step-one.webp)
 ![Belone Burst Mario Kart Step 2](/img/pandaemonium-asphodelos/the-fourth-circle/belone-burst/belone-burst-mario-kart-static-step-two.webp)

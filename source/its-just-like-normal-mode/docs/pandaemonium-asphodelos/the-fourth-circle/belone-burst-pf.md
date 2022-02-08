@@ -50,16 +50,27 @@ This video talks through the **Mario Kart** strat using the toolbox that is link
 ## Party Finder Strat (Text Guide)
 In this solution, once the **Acting-[Role]** debuffs have gone out, party members will position themselves around the boss in the following manner:
 
-- Tanks will stand North and North East of the boss
-- Healers will stand West and North West of the boss
-- The two DPS with the **Acting-Healer** debuff will stand East and South East of the boss
-- The two DPS with the **Acting-Tank** debuff will stand South and South West of the boss.
+- Ryu will take the North spot
+- Gigren will take the North East spot
+- Sock will take the East spot
+- Muggy will take the South East spot
+- Ethernity will take the South spot
+- Edrael will take the South West spot
+- Kanae will take the West spot
+- Gon will take the North West spot
+
+We can use static positions as such and sorta ignore the **Acting-[Role]** debuffs
 
 The following image shows the placement of all party members.
 
 ![Vengeful Belone Positions Party FInder](/img/pandaemonium-asphodelos/the-fourth-circle/belone-burst/vengful-belone-positions-party-finder-static.webp)
 
-Doing the positions this way puts every **Acting-[Role]** debuff with a partner and lines them up so they are directly across the boss from the orbs they need to pop.  They will run with their partner to the opposite side of the boss and pop the orb in the cardinal direction first, then rotate clockwise to pop the orb at the intercardinal.
+Doing the positions this way will group the tanks, ranged dps, healers, and melee dps together at specific points around the boss. Then when the orbs spawn, each partner group just has to run through the boss together to pop first orbs at the cardinals, then rotate clockwise together to pop the orbs at the intercardinals. Doing it this way puts the first orb pops with
+
+- Tanks popping South orb
+- Healer popping East orb
+- Melee DPS popping North orb
+- Ranged DPS popping West orb
 
 ![Belone Burst Party Finder Step 1](/img/pandaemonium-asphodelos/the-fourth-circle/belone-burst/belone-burst-party-finder-static-step-one.webp)
 ![Belone Burst Party Finder Step 2](/img/pandaemonium-asphodelos/the-fourth-circle/belone-burst/belone-burst-party-finder-static-step-two.webp)
