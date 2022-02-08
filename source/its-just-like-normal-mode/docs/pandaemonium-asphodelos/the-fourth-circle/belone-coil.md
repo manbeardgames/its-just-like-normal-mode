@@ -12,7 +12,7 @@ Along with the towers, the boss will tether four random party members that, when
 
 ## Toolbox
 This toolbox covers performing the Belone Coil mechanic using the **Uptime** strat discussed in the sections below.  
-[Belone Coil Uptime Strat Toolbox](https://ff14.toolboxgaming.space/?id=926159282624461&preview=1)
+[Belone Coil Uptime Strat Toolbox](https://ff14.toolboxgaming.space/?id=496155223924461&preview=1)
 
 ## Discussion Video
 This video talks through the **Uptime** strat using the toolbox that is linked above.

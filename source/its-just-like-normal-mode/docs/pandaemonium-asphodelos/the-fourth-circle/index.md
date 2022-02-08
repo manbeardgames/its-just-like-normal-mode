@@ -14,6 +14,7 @@ sidebar_position: 1
 - [Pinax (Tiles)](./pinax.md)
 - [Belone Burst (Mario Kart Strat)](./belone-burst.md)
 - [Belone Burst (Party Finder Strat)](./belone-burst-pf.md)
+- [Belone Coil (Uptime)](./belone-coil.md)
 
 ### Phase 2
 (coming soon)
