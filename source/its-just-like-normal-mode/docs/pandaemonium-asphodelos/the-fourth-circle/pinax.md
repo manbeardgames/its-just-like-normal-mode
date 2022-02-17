@@ -60,7 +60,8 @@ The fire tile mechanic requires that we split the party into two light groups to
 ### Poison Spread Positions
 The poison tile requires that party members spread out, as each party member will be hit with a smallish point blank AoE.  To handle this spread and still provide uptime for melee, we'll use the following spread positions
 
-- Tanks will position on the front and back side of the boss
+- Main tank will position in front of the boss against the wall.
+- Off tank will position in the center of the bosses hitbox.
 - Melee DPS will position on the left and right side of the boss
 - Healers will position against the wall directly above the center circle on the tiles.
     - One healer on the lightning tile
