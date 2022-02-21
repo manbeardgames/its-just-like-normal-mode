@@ -36,20 +36,16 @@ const config = {
           trackingID: "G-T3NVNQ2ME1",
           anonymizeIP: false,
         },
+
+        sitemap: {
+          changefreq: "weekly",
+          priority: 0.5,
+        },
       }),
     ],
   ],
 
-  plugins: [
-    "plugin-image-zoom",
-    [
-      "@docusaurus/plugin-sitemap",
-      {
-        changefreq: "weekly",
-        priority: 0.5,
-      },
-    ],
-  ],
+  plugins: ["plugin-image-zoom"],
 
   themeConfig: {
     /* Color Mode Configs */
