@@ -17,25 +17,8 @@ sidebar_position: 1
 - [Belone Coil (Uptime)](./belone-coil.md)
 
 ### Phase 2
-We'll be using the strats outlined in this video for phase 2.
+- [Click here for Phse 2 inforomation](./phase-2.md)
 
-<div style={{
-    position: "relative",
-    paddingBottom: "56.25%",
-    height: "0",
-    overflow: "hidden",
-    maxWidth: "100%"
-    }}>
-    <iframe style={{
-        position: "absolute",
-        top: "0",
-        left: "0",
-        width: "100%",
-        height: "100%"
-    }} src='https://www.youtube.com/embed/4gXNbfGbKIk' frameborder='0' allowfullscreen></iframe>
-</div>
-<br/> 
-<br/> 
 
 
 ## Waymarks
