@@ -17,7 +17,7 @@ sidebar_position: 1
 - [Belone Coil (Uptime)](./belone-coil.md)
 
 ### Phase 2
-- [Click here for Phse 2 inforomation](./phase-2.md)
+- [Click here for Phse 2 inforomation](./phase-2.mdx)
 
 
 
