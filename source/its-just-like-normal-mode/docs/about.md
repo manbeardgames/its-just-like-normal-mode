@@ -3,6 +3,16 @@ id: docs-about
 title: About the Static
 slug: /about
 description: Information and resources used by the Its Just Like Normal Mode static
+keywords:
+  - final fantasy xiv
+  - ffxiv
+  - ff14
+  - endwalker
+  - static
+  - raid
+  - guide
+  - savage
+  - pandaemonium asphodelos
 ---
 
 # Its Just Like Normal Mode?

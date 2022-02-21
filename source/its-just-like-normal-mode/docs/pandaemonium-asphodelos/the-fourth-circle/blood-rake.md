@@ -3,6 +3,26 @@ id: p4s-blookdrake
 title: Blood Rake (Role Call + Tethers)
 sidebar_position: 2
 slug: /pandaemonium-asphodelos/the-fourth-circle/blood-rake
+description: How our static handles the initial blood rake section in Pandaemonium Asphodelos The Fourth Circle (Savage)
+keywords: 
+  - final fantasy xiv
+  - ffxiv
+  - ff14
+  - endwalker
+  - static
+  - raid
+  - guide
+  - p4s
+  - pandaemonium asphodelos
+  - the fourth circle
+  - savage
+  - blood rake
+  - chlamys
+  - inversive chlamys
+  - aetheric chlams
+  - role call
+  - directors belone
+  - miscast
 ---
 
 # Blood Rake (Overview)

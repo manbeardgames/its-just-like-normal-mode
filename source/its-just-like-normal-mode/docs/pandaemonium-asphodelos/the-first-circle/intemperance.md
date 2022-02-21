@@ -1,9 +1,22 @@
 ---
 id: p1s-intemperance
 title: Intemperance
-description: How to handle the first Intemperance phases of the fight
 sidebar_position: 8
 slug: /pandaemonium-asphodelos/the-first-circle/intemperance
+description: How our static handles intemperance in Pandaemonium Asphodelos The First Circle (Savage)
+keywords: 
+  - final fantasy xiv
+  - ffxiv
+  - ff14
+  - endwalker
+  - static
+  - raid
+  - guide
+  - p1s
+  - pandaemonium asphodelos
+  - the first circle
+  - savage
+  - intemperance
 ---
 
 # Intemperance

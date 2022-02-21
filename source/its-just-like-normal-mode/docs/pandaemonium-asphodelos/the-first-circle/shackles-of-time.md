@@ -1,9 +1,22 @@
 ---
 id: p1s-shackles-of-time
 title: Shackles of Time
-description: How to handle the Shackles of Time mechanic
 sidebar_position: 6
 slug: /pandaemonium-asphodelos/the-first-circle/shackles-of-time
+description: How our static handles shackles of time in Pandaemonium Asphodelos The First Circle (Savage)
+keywords: 
+  - final fantasy xiv
+  - ffxiv
+  - ff14
+  - endwalker
+  - static
+  - raid
+  - guide
+  - p1s
+  - pandaemonium asphodelos
+  - the first circle
+  - savage
+  - shackles of time
 ---
 
 # Shackles of Time

@@ -3,6 +3,20 @@ id: p4s-belone-burst
 title: Belone Burst (Mario Kart)
 sidebar_position: 4
 slug: /pandaemonium-asphodelos/the-fourth-circle/belone-burst
+description: How our static handles belone burst in Pandaemonium Asphodelos The Fourth Circle (Savage)
+keywords: 
+  - final fantasy xiv
+  - ffxiv
+  - ff14
+  - endwalker
+  - static
+  - raid
+  - guide
+  - p4s
+  - pandaemonium asphodelos
+  - the fourth circle
+  - savage
+  - belone burst
 ---
 
 ## Belone Burst (Overview)

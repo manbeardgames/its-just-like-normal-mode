@@ -3,6 +3,20 @@ id: p3s-fledgling-flight
 title: Fledgling Flight
 sidebar_position: 11
 slug: /pandaemonium-asphodelos/the-third-circle/fledgling-flight
+description: How our static handles the fledgling flight in Pandaemonium Asphodelos The Third Circle (Savage)
+keywords: 
+  - final fantasy xiv
+  - ffxiv
+  - ff14
+  - endwalker
+  - static
+  - raid
+  - guide
+  - p3s
+  - pandaemonium asphodelos
+  - the third circle
+  - savage
+  - fledgling flight
 ---
 
 # Fledgling Flight

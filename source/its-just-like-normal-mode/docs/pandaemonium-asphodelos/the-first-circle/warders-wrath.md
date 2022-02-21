@@ -1,8 +1,21 @@
 ---
 id: p1s-warders-wrath
 title: Warder's Wrath
-description: How to handle Warder's Wrath
 slug: /pandaemonium-asphodelos/the-first-circle/warders-wrath
+description: Infomration on warders wrath (raid wide aoe) in Pandaemonium Asphodelos The First Circle (Savage)
+keywords: 
+  - final fantasy xiv
+  - ffxiv
+  - ff14
+  - endwalker
+  - static
+  - raid
+  - guide
+  - p1s
+  - pandaemonium asphodelos
+  - the first circle
+  - savage
+  - warders wrath
 ---
 
 # Warder's Wrath

@@ -1,6 +1,16 @@
 ---
 id: logs
 title: Logs
+keywords:
+  - final fantasy xiv
+  - ffxiv
+  - ff14
+  - endwalker
+  - static
+  - raid
+  - guide
+  - savage
+  - pandaemonium asphodelos
 ---
 
 # Logs

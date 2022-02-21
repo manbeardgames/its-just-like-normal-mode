@@ -1,6 +1,17 @@
 ---
 id: roster
 title: Roster
+description: The current party members of the Its Just Like Normal Mode static
+keywords:
+  - final fantasy xiv
+  - ffxiv
+  - ff14
+  - endwalker
+  - static
+  - raid
+  - guide
+  - savage
+  - pandaemonium asphodelos
 ---
 
 # Static Roster

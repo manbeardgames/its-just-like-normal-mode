@@ -1,9 +1,22 @@
 ---
 id: p1s-heavy-hand
 title: Heavy Hand
-description: Why is his hand so heavy?
 sidebar_position: 5
 slug: /pandaemonium-asphodelos/the-first-circle/heavy-hand
+description: Information on the heavy hand tank buster in Pandaemonium Asphodelos The First Circle (Savage)
+keywords: 
+  - final fantasy xiv
+  - ffxiv
+  - ff14
+  - endwalker
+  - static
+  - raid
+  - guide
+  - p1s
+  - pandaemonium asphodelos
+  - the first circle
+  - savage
+  - heavy hand
 ---
 
 # Heavy Hand

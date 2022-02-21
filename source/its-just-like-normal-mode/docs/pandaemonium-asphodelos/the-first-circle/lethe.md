@@ -1,9 +1,22 @@
 ---
 id: p1s-lethe
 title: Lethe
-description: How to die to Lethe
 sidebar_position: 20
 slug: /pandaemonium-asphodelos/the-first-circle/lethe
+description: Information on the lethe (enrage) mechanic in Pandaemonium Asphodelos The First Circle (Savage)
+keywords: 
+  - final fantasy xiv
+  - ffxiv
+  - ff14
+  - endwalker
+  - static
+  - raid
+  - guide
+  - p1s
+  - pandaemonium asphodelos
+  - the first circle
+  - savage
+  - lethe
 ---
 
 # Lethe

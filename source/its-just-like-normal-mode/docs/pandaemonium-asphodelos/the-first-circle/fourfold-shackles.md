@@ -1,9 +1,22 @@
 ---
 id: p1s-fourfold-shackles
 title: Fourfold Shackles
-description: How to handle the Fourfold Shackles mechanic
 sidebar_position: 7
 slug: /pandaemonium-asphodelos/the-first-circle/fourfold-shackles
+description: How our static handles fourfold shackles in Pandaemonium Asphodelos The First Circle (Savage)
+keywords: 
+  - final fantasy xiv
+  - ffxiv
+  - ff14
+  - endwalker
+  - static
+  - raid
+  - guide
+  - p1s
+  - pandaemonium asphodelos
+  - the first circle
+  - savage
+  - fourfold shackles
 ---
 
 # Fourfold Shackles

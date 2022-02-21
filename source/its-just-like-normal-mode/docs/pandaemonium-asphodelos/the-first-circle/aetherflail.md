@@ -1,8 +1,21 @@
 ---
 id: p1s-aetherflail
 title: Aetherflail
-description: How to handle Aetherflail
 slug: /pandaemonium-asphodelos/the-first-circle/aetherflail
+description: How our static handles aetherflail in Pandaemonium Asphodelos The First Circle (Savage)
+keywords: 
+  - final fantasy xiv
+  - ffxiv
+  - ff14
+  - endwalker
+  - static
+  - raid
+  - guide
+  - p1s
+  - pandaemonium asphodelos
+  - the first circle
+  - savage
+  - aetherflail
 ---
 
 # Aetherflail

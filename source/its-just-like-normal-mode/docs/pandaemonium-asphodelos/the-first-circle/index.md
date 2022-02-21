@@ -2,7 +2,19 @@
 id: the-first-circle-savage
 title: Overview
 sidebar_position: 1
-description: Overview of Pandæmonium Asphodelos The First Circle Savage
+description: Information on our static's raid plan for various mechanics in Pandaemonium Asphodelos The First Circle (Savage)
+keywords: 
+  - final fantasy xiv
+  - ffxiv
+  - ff14
+  - endwalker
+  - static
+  - raid
+  - guide
+  - p1s
+  - pandaemonium asphodelos
+  - the first circle
+  - savage
 ---
 # Pandæmonium Asphodelos: The First Circle (Savage)
 

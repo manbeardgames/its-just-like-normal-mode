@@ -1,8 +1,21 @@
 ---
 id: p1s-intemperance-1
 title: First Intemperance Phase
-description: How to handle the first Intemperance phase.
 slug: /pandaemonium-asphodelos/the-first-circle/intemperance-1
+description: How our static handles the first intemperance phase of Pandaemonium Asphodelos The First Circle (Savage)
+keywords: 
+  - final fantasy xiv
+  - ffxiv
+  - ff14
+  - endwalker
+  - static
+  - raid
+  - guide
+  - p1s
+  - pandaemonium asphodelos
+  - the first circle
+  - savage
+  - intemperance
 ---
 
 # First Intemperance Phase

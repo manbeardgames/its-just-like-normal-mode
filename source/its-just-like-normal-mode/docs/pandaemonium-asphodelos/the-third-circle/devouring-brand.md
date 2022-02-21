@@ -3,6 +3,20 @@ id: p3s-devouring-brand
 title: Devouring Brand
 sidebar_position: 8
 slug: /pandaemonium-asphodelos/the-third-circle/devouring-brand
+description: How our static handles Devouring Brand in Pandaemonium Asphodelos The Third Circle (Savage)
+keywords: 
+  - final fantasy xiv
+  - ffxiv
+  - ff14
+  - endwalker
+  - static
+  - raid
+  - guide
+  - p3s
+  - pandaemonium asphodelos
+  - the third circle
+  - savage
+  - devouring brand
 ---
 
 # Devouring Brand

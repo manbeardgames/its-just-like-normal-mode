@@ -3,6 +3,21 @@ id: p3s-left-right-cinderwing
 title: Left/Right Cinderwing
 sidebar_position: 5
 slug: /pandaemonium-asphodelos/the-third-circle/left-right-cinderwing
+description: How our static handles left and right cinderwing in Pandaemonium Asphodelos The Third Circle (Savage)
+keywords: 
+  - final fantasy xiv
+  - ffxiv
+  - ff14
+  - endwalker
+  - static
+  - raid
+  - guide
+  - p3s
+  - pandaemonium asphodelos
+  - the third circle
+  - savage
+  - left cinderwing
+  - right cinderwing
 ---
 
 # Left/Right Cinderwing

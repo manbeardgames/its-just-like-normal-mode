@@ -3,6 +3,20 @@ id: p4s-belone-coil
 title: Belone Coil (Uptime)
 sidebar_position: 6
 slug: /pandaemonium-asphodelos/the-fourth-circle/belone-coil
+description: How our static handles belone coil in Pandaemonium Asphodelos The Fourth Circle (Savage)
+keywords: 
+  - final fantasy xiv
+  - ffxiv
+  - ff14
+  - endwalker
+  - static
+  - raid
+  - guide
+  - p4s
+  - pandaemonium asphodelos
+  - the fourth circle
+  - savage
+  - belone coil
 ---
 
 ## Belone Coil (Overview)

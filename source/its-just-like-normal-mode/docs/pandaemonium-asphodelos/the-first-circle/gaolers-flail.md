@@ -1,9 +1,22 @@
 ---
 id: p1s-gaolers-flail
 title: Gaoler's Flail
-description: How to handle the Gaoler's Flail mechanic
 sidebar_position: 3
 slug: /pandaemonium-asphodelos/the-first-circle/gaolers-flail
+description: How our static handles gaolers flail in Pandaemonium Asphodelos The First Circle (Savage)
+keywords: 
+  - final fantasy xiv
+  - ffxiv
+  - ff14
+  - endwalker
+  - static
+  - raid
+  - guide
+  - p1s
+  - pandaemonium asphodelos
+  - the first circle
+  - savage
+  - gaolers flail
 ---
 
 # Gaoler's Flail

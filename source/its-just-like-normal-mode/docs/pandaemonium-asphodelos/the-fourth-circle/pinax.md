@@ -3,6 +3,25 @@ id: p4s-pinax
 title: Pinax (Tiles)
 sidebar_position: 3
 slug: /pandaemonium-asphodelos/the-fourth-circle/pinax
+description: How our static handles pinax (tiles) in Pandaemonium Asphodelos The Fourth Circle (Savage)
+keywords: 
+  - final fantasy xiv
+  - ffxiv
+  - ff14
+  - endwalker
+  - static
+  - raid
+  - guide
+  - p4s
+  - pandaemonium asphodelos
+  - the fourth circle
+  - savage
+  - pinax
+  - tiles
+  - lightning
+  - water
+  - fire
+  - poison
 ---
 
 ## Pinax (Overview)

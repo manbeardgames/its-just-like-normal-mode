@@ -1,9 +1,22 @@
 ---
 id: p1s-aetherial-shackles
 title: Aetherial Shackles
-description: How to handle the Aetherial Shackles mechanic
 sidebar_position: 2
 slug: /pandaemonium-asphodelos/the-first-circle/aetherial-shackles
+description: How our static handles aetherial shackles in Pandaemonium Asphodelos The First Circle (Savage)
+keywords: 
+  - final fantasy xiv
+  - ffxiv
+  - ff14
+  - endwalker
+  - static
+  - raid
+  - guide
+  - p1s
+  - pandaemonium asphodelos
+  - the first circle
+  - savage
+  - aetherial shackles
 ---
 
 # Aetherial Shackles

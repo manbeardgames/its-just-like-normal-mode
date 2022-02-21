@@ -59,6 +59,10 @@ const config = {
         content:
           "The official website of the It's Just Like Normal Mode FFXIV raid static.",
       },
+      {
+        name: "keywords",
+        content: "final fantasy xiv, ffxiv, ff14, endwalker, static, raid, guide, savage, pandaemonium asphodelos"
+      }
     ],
 
     /* Navbar Config */

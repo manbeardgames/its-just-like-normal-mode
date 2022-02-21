@@ -2,6 +2,19 @@
 id: the-fourth-circle-savage
 title: Overview
 sidebar_position: 1
+description: Information on our static's raid plan for various mechanics in Pandaemonium Asphodelos The Fourth Circle (Savage)
+keywords: 
+  - final fantasy xiv
+  - ffxiv
+  - ff14
+  - endwalker
+  - static
+  - raid
+  - guide
+  - p4s
+  - pandaemonium asphodelos
+  - the fourth circle
+  - savage
 ---
 # Pandæmonium Asphodelos: The Fourth Circle (Savage)
 

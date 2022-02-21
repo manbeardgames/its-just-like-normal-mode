@@ -2,6 +2,19 @@
 id: the-third-circle-savage
 title: Overview
 sidebar_position: 1
+description: Information on our static's raid plan for various mechanics in Pandaemonium Asphodelos The Third Circle (Savage)
+keywords: 
+  - final fantasy xiv
+  - ffxiv
+  - ff14
+  - endwalker
+  - static
+  - raid
+  - guide
+  - p3s
+  - pandaemonium asphodelos
+  - the third circle
+  - savage
 ---
 # Pandæmonium Asphodelos: The Third Circle (Savage)
 

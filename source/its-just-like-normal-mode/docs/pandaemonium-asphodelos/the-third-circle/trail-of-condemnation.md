@@ -3,6 +3,20 @@ id: p3s-trail-of-condemnation
 title: Trail of Condemnation
 sidebar_position: 9
 slug: /pandaemonium-asphodelos/the-third-circle/trail-of-condemnation
+description: How our static handles the trail of condemnation in Pandaemonium Asphodelos The Third Circle (Savage)
+keywords: 
+  - final fantasy xiv
+  - ffxiv
+  - ff14
+  - endwalker
+  - static
+  - raid
+  - guide
+  - p3s
+  - pandaemonium asphodelos
+  - the third circle
+  - savage
+  - trail of condemnation
 ---
 
 # Trail of Condemnation

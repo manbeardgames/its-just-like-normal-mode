@@ -1,9 +1,22 @@
 ---
 id: p1s-slam-shut
 title: Slam Shut
-description: Information on the Slam Shut cast
 sidebar_position: 30
 slug: /pandaemonium-asphodelos/the-first-circle/slam-shut
+description: Information on the slam shut mechanic in Pandaemonium Asphodelos The First Circle (Savage)
+keywords: 
+  - final fantasy xiv
+  - ffxiv
+  - ff14
+  - endwalker
+  - static
+  - raid
+  - guide
+  - p1s
+  - pandaemonium asphodelos
+  - the first circle
+  - savage
+  - slam shut
 ---
 
 # Slam Shut

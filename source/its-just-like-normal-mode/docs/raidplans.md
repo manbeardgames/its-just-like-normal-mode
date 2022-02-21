@@ -2,6 +2,17 @@
 id: raid-plans
 title: Raid Plans
 slug: /raid-plans
+description: Links to the various raid plans used by our static
+keywords: 
+  - final fantasy xiv
+  - ffxiv
+  - ff14
+  - endwalker
+  - static
+  - raid
+  - guide
+  - savage
+  - pandaemonium asphodelos
 ---
 
 # Raid Plans

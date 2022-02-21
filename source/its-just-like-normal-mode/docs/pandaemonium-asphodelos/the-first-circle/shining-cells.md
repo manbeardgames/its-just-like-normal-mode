@@ -1,8 +1,21 @@
 ---
 id: p1s-shining-cells
 title: First Shining Cells Phase
-description: Information on the Shining Cells phase.
 slug: /pandaemonium-asphodelos/the-first-circle/shining-cells
+description: Information on the shining cells mechanic in Pandaemonium Asphodelos The First Circle (Savage)
+keywords: 
+  - final fantasy xiv
+  - ffxiv
+  - ff14
+  - endwalker
+  - static
+  - raid
+  - guide
+  - p1s
+  - pandaemonium asphodelos
+  - the first circle
+  - savage
+  - shining cells
 ---
 
 # Shining Cells Phase

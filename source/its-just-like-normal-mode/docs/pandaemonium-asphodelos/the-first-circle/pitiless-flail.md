@@ -1,9 +1,23 @@
 ---
 id: p1s-pitiless-flail
 title: Pitiless Flail of Grace/Purgation
-description: How to handle the Pitiless Flail of Grace/Purgation mecahnic.
 sidebar_position: 6
 slug: /pandaemonium-asphodelos/the-first-circle/pitiless-flail
+description: How our static handles pitiless flail in Pandaemonium Asphodelos The First Circle (Savage)
+keywords: 
+  - final fantasy xiv
+  - ffxiv
+  - ff14
+  - endwalker
+  - static
+  - raid
+  - guide
+  - p1s
+  - pandaemonium asphodelos
+  - the first circle
+  - savage
+  - pitiless flail of grace
+  - pitiless flail of purgation
 ---
 
 # Pitiless Flail of Grace/Purgation

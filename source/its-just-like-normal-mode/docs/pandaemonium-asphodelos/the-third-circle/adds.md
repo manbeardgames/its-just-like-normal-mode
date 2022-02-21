@@ -3,6 +3,20 @@ id: p3s-adds
 title: Adds Phase
 sidebar_position: 10
 slug: /pandaemonium-asphodelos/the-third-circle/adds-phase
+description: How our static handles the Adds Phase of Pandaemonium Asphodelos The Third Circle (Savage)
+keywords: 
+  - final fantasy xiv
+  - ffxiv
+  - ff14
+  - endwalker
+  - static
+  - raid
+  - guide
+  - p3s
+  - pandaemonium asphodelos
+  - the third circle
+  - savage
+  - adds phase
 ---
 
 # Adds Phase
