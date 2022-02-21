@@ -21,4 +21,6 @@ sidebar_position: 1
 
 
 ## Waymarks
-![Waymarks](/img/pandaemonium-asphodelos/the-fourth-circle/waymarks.webp)
+![Waymarks Phase 1](/img/pandaemonium-asphodelos/the-fourth-circle/waymarks.webp)
+
+![Waymarks Phase 2](/img/pandaemonium-asphodelos/the-fourth-circle/waymarks-p2.webp)
